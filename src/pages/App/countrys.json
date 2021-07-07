@@ -1,19 +1,19 @@
 {
     "argentina": {
         "id": "MLA",
-        "flag": ""
+        "flag": "argentina"
     },
     "brazil":{
         "id": "MLB",
-        "flag": ""
+        "flag": "brazil"
     },
     "colombia":{
         "id": "MLC",
-        "flag": ""
+        "flag": "colombia"
     },
     "bolivia":{
         "id": "MBO",
-        "flag": ""
+        "flag": "bolivia"
     }
     
 

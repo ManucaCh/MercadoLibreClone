@@ -3,7 +3,7 @@ import Search from "../../components/Search";
 
 function Carousel() {
   const { id } = useParams();
-  console.log(id);
+
   return (
     <>
       <Search />

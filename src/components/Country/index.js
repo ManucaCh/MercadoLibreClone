@@ -6,7 +6,7 @@ function Country(props) {
   return (
     <Link to={`/carousel/${id}`}>
       <li>
-        <img src={`/Flags/${flag}.png`} />
+        <img src={`/Flags/${flag}.png`} alt="flag" />
         <p>{country}</p>
       </li>
     </Link>

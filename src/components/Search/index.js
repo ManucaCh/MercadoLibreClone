@@ -1,12 +1,12 @@
 import { useState } from "react";
 import logo2 from "../../images/logo-large.png";
 
-function Search() {
+function Search(props) {
   const [searchValue, setSearchValue] = useState("");
   const [inputValue, setInputValue] = useState("");
 
   function handleClick() {
-    console.log(searchValue, inputValue);
+    props.callback(`${searchValue}`);
   }
 
   return (

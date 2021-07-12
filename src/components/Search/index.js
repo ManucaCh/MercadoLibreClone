@@ -3,22 +3,30 @@ import logo2 from "../../images/logo-large.png";
 
 function Search(props) {
   const [searchValue, setSearchValue] = useState("");
-  const [inputValue, setInputValue] = useState("");
 
-  function handleClick() {
+  function handleCallback() {
     props.callback(`${searchValue}`);
+    console.log(searchValue);
+    setSearchValue("");
+  }
+
+  function handleEnter(e) {
+    if (e.key === "Enter") {
+      handleCallback();
+    }
   }
 
   return (
     <>
-      <img src={logo2}></img>
+      <img alt="banner" src={logo2}></img>
       <input
         type="text"
         placeholder="Buscar producto..."
-        defaultValue={inputValue}
+        value={searchValue}
         onChange={(e) => setSearchValue(e.target.value)}
+        onKeyPress={handleEnter}
       />
-      <button onClick={handleClick}>Buscar</button>
+      <button onClick={handleCallback}>Buscar</button>
     </>
   );
 }

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import logo2 from "../../images/logo-large.png";
+import { Link } from "react-router-dom";
 
 function Search(props) {
   const [searchValue, setSearchValue] = useState("");
@@ -18,7 +19,9 @@ function Search(props) {
 
   return (
     <>
-      <img alt="banner" src={logo2}></img>
+      <Link to={`/`}>
+        <img alt="banner" src={logo2} />
+      </Link>
       <input
         type="text"
         placeholder="Buscar producto..."

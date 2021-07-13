@@ -1,6 +1,7 @@
 import Country from "../../components/Country";
 import logo from "../../images/logo.png";
 import countries from "./countrys.json";
+import "../../../src/style.scss";
 
 function App() {
   return (

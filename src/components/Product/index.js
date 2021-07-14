@@ -1,7 +1,6 @@
 import style from "./style.module.scss";
 
 function Product({ data }) {
-  console.log(style);
   return (
     <div className={style.card}>
       <p className={style.title}>{data.title}</p>

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ManucaCh/MercadoLibreClone/static/css/main.47a5c343.chunk.css",
-    "main.js": "/ManucaCh/MercadoLibreClone/static/js/main.2375f2ac.chunk.js",
-    "main.js.map": "/ManucaCh/MercadoLibreClone/static/js/main.2375f2ac.chunk.js.map",
-    "runtime-main.js": "/ManucaCh/MercadoLibreClone/static/js/runtime-main.e7ace50a.js",
-    "runtime-main.js.map": "/ManucaCh/MercadoLibreClone/static/js/runtime-main.e7ace50a.js.map",
-    "static/js/2.b85c9027.chunk.js": "/ManucaCh/MercadoLibreClone/static/js/2.b85c9027.chunk.js",
-    "static/js/2.b85c9027.chunk.js.map": "/ManucaCh/MercadoLibreClone/static/js/2.b85c9027.chunk.js.map",
-    "static/js/3.68920dac.chunk.js": "/ManucaCh/MercadoLibreClone/static/js/3.68920dac.chunk.js",
-    "static/js/3.68920dac.chunk.js.map": "/ManucaCh/MercadoLibreClone/static/js/3.68920dac.chunk.js.map",
+    "main.css": "/ManucaCh/MercadoLibreClone/static/css/main.5d9917c3.chunk.css",
+    "main.js": "/ManucaCh/MercadoLibreClone/static/js/main.a4172f9f.chunk.js",
+    "main.js.map": "/ManucaCh/MercadoLibreClone/static/js/main.a4172f9f.chunk.js.map",
+    "runtime-main.js": "/ManucaCh/MercadoLibreClone/static/js/runtime-main.3cd09283.js",
+    "runtime-main.js.map": "/ManucaCh/MercadoLibreClone/static/js/runtime-main.3cd09283.js.map",
+    "static/js/2.360de281.chunk.js": "/ManucaCh/MercadoLibreClone/static/js/2.360de281.chunk.js",
+    "static/js/2.360de281.chunk.js.map": "/ManucaCh/MercadoLibreClone/static/js/2.360de281.chunk.js.map",
+    "static/js/3.006c3254.chunk.js": "/ManucaCh/MercadoLibreClone/static/js/3.006c3254.chunk.js",
+    "static/js/3.006c3254.chunk.js.map": "/ManucaCh/MercadoLibreClone/static/js/3.006c3254.chunk.js.map",
     "index.html": "/ManucaCh/MercadoLibreClone/index.html",
-    "static/css/main.47a5c343.chunk.css.map": "/ManucaCh/MercadoLibreClone/static/css/main.47a5c343.chunk.css.map",
-    "static/js/2.b85c9027.chunk.js.LICENSE.txt": "/ManucaCh/MercadoLibreClone/static/js/2.b85c9027.chunk.js.LICENSE.txt",
+    "static/css/main.5d9917c3.chunk.css.map": "/ManucaCh/MercadoLibreClone/static/css/main.5d9917c3.chunk.css.map",
+    "static/js/2.360de281.chunk.js.LICENSE.txt": "/ManucaCh/MercadoLibreClone/static/js/2.360de281.chunk.js.LICENSE.txt",
     "static/media/logo.2531a804.png": "/ManucaCh/MercadoLibreClone/static/media/logo.2531a804.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7ace50a.js",
-    "static/js/2.b85c9027.chunk.js",
-    "static/css/main.47a5c343.chunk.css",
-    "static/js/main.2375f2ac.chunk.js"
+    "static/js/runtime-main.3cd09283.js",
+    "static/js/2.360de281.chunk.js",
+    "static/css/main.5d9917c3.chunk.css",
+    "static/js/main.a4172f9f.chunk.js"
   ]
 }

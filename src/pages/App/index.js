@@ -2,12 +2,13 @@ import Country from "../../components/Country";
 import logo from "../../images/logo.png";
 import countries from "./countrys.json";
 import "../../../src/style.scss";
+import style from "./style.module.scss";
 
 function App() {
   return (
     <>
-      <div className="home">
-        <img src={logo} alt="logo" className="appLogo"></img>
+      <div className={style.home}>
+        <img src={logo} alt="logo" className={style.applogo}></img>
         <ul>
           {Object.keys(countries).map((country, key) => {
             return (

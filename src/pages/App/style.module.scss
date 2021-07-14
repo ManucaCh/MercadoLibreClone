@@ -1,0 +1,24 @@
+.home {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  .applogo {
+    -webkit-text-size-adjust: 100%;
+    font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: url("https://static.mlstatic.com/org-img/homesnw/img/ml-logo-small.png?v=3.0")
+      no-repeat center center;
+    text-indent: -9999px;
+    text-align: center;
+    margin-bottom: 25px;
+    background-image: url("https://static.mlstatic.com/org-img/homesnw/img/ml-logo.png?v=3.0");
+    height: 223px;
+    width: 249px;
+  }
+}
